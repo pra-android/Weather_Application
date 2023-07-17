@@ -1,7 +1,7 @@
 # WEATHER APP
 
 ## Descriptions:
-It is the Simple Weather Application created using flutter . It contains different information about places such as Latitude, Longitude,Current Temeperature,Temeperature Type.Maximum Temperature ,Minimum Temperature. .The application can be run on both android and IOS.It aslo includes the concepts of REST API and includes the GET Method.
+It is the Simple Weather Application created using flutter. It contains different information about places such as Latitude, Longitude,Current Temeperature,Temeperature Type.Maximum Temperature ,Minimum Temperature. The application can be run on both android and IOS.It aslo includes the concepts of REST API and includes the GET Method.
 
 
 
@@ -11,10 +11,6 @@ It is the Simple Weather Application created using flutter . It contains differe
  import 'package:google_fonts/google_fonts.dart'; 
  
  -It gives user to new fonts in a text widget.
- 
- import 'package:share_plus/share_plus.dart';
- 
- -It is used to share the content of application in other social media like facebook,whatsapp,etc
  
  import  'package:http/http.dart' as http;
  
