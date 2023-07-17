@@ -1,7 +1,7 @@
-# NEWS APP
+# WEATHER APP
 
 ## Descriptions:
-It is the News app created using flutter . It contains different sections of news like National news,Sports news, Tech news,etc .The application can be run on both android and IOS.It aslo includes the concepts of REST API and includes the GET Method.
+It is the Simple Weather Application created using flutter . It contains different information about places such as Latitude, Longitude,Current Temeperature,Temeperature Type.Maximum Temperature ,Minimum Temperature. .The application can be run on both android and IOS.It aslo includes the concepts of REST API and includes the GET Method.
 
 
 
@@ -32,9 +32,9 @@ It is the News app created using flutter . It contains different sections of new
  
  
  ####  OUTPUT
- 
+https://github.com/pra-android/NewsApp/assets/82046769/e61b631c-5b10-4a00-9512-b85e491025ff
 
-https://github.com/pra-android/NewsApp/assets/82046769/25c903b2-1dc8-4a10-93bd-e281d3e9801d
+
 
 
  
